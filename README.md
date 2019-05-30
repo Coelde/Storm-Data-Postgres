@@ -5,5 +5,5 @@ Involves:
 
 - Creating and assigning groups & users.
 - Creating the schema.
-- Inserting the data from AWS
-- Updating the table using additional data from AWS.
+- Inserting the data from AWS: https://dq-content.s3.amazonaws.com/251/storm_data.csv
+- Updating the table using additional data from AWS: https://dq-content.s3.amazonaws.com/251/storm_data_additional.csv
