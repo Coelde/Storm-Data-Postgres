@@ -1,6 +1,6 @@
 # Storm-Data-Postgres
 
-Straightforward project to create a database and table in Postgres using Python and Psycopg2. It
+Straightforward project to create a database and table based on recorded storms in Postgres using Python and Psycopg2. It
 involves:
 
 - Creating and assigning groups & users.
