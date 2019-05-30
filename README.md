@@ -1,6 +1,6 @@
 # Storm-Data-Postgres
 
-Simple beginner's project to create a database and table in Postgres. I
+Simple beginner's project to create a database and table in Postgres. It
 Involves:
 
 - Creating and assigning groups & users.
